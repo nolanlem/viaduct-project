@@ -17,4 +17,8 @@ Simple dry/wet mixer for accumulator patch, used with people sounds and water so
 - Highlight specific frequency ranges
 
 
+
+
+
+
 ##### If you have ideas for other patches post them here. Push more little patches that we can integrate!
