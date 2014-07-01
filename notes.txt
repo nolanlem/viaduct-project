@@ -8,3 +8,5 @@ ingredients:
 - extension cords
 - mic cables
 - tables
+
+make a little hour-long composition of found sounds for the background
