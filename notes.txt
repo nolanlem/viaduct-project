@@ -1,0 +1,10 @@
+ingredients:
+- 2 speakers
+- mixer
+- sound interface
+- computer + power
+- wireless mics
+- static microphone
+- extension cords
+- mic cables
+- tables
