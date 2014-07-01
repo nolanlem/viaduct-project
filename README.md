@@ -12,4 +12,4 @@ Simple dry/wet mixer for an accumulator patch from Luke, used with people sounds
 - Use an amplitude threshold for incoming train sounds or the live feed that will activate wet in an interesting way
 - Highlight specific frequency ranges
 
-##### If you have ideas for other patches post them here. Push more little patches that we can integrate!
+#### If you have ideas for other patches post them here. Push more little patches that we can integrate!
